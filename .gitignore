@@ -2,3 +2,4 @@
 local/.env
 local/data
 local/s3_data
+volumes/
